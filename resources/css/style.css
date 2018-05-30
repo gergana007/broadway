@@ -27,7 +27,7 @@ p {
   color: white;
 }
 .backgroundImage {
-  background-image: url("https://gergana007.github.io/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
   background-position: center;
 }
